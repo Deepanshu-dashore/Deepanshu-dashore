@@ -1,13 +1,13 @@
 <!-- GitHub Profile README for Deepanshu Dashore -->
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Dashore;Web+Developer+%7C+MERN+Stack+Enthusiast;Love+building+awesome+projects" alt="Typing SVG" />
-</h1>
----
+<!-- ✨ Code Vibes Animated Intro with Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Dashore;Web+Developer+%7C+MERN+Stack+Enthusiast;Love+building+awesome+projects" alt="Typing Animation" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Deepanshu Dashore</h1>
-<h3 align="center">A passionate Web Developer from India 🚀</h3>
+<h1 align="center" style="color:white;">Hi 👋, I'm <strong>Deepanshu Dashore</strong></h1>
+<h3 align="center" style="color:white;">A passionate Web Developer from India 🚀</h3>
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/151617949?v=4" width="150" alt="Deepanshu Dashore" style="border-radius: 50%;" />
@@ -36,7 +36,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,firebase,jwt,postman,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,firebase,JWT,postman,canva" />
 </p>
 
 ---
