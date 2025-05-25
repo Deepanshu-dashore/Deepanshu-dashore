@@ -36,12 +36,6 @@
 <p align="left">
   <!-- Skillicons (supported) -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,firebase,postman" />
-
-  <!-- Manual Canva Icon -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-
-  <!-- Manual JWT Icon -->
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 
