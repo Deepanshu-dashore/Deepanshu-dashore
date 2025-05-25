@@ -3,10 +3,8 @@
 <!-- ✨ Code Vibes Animated Intro with Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Dashore;Web+Developer+%7C+MERN+Stack+Enthusiast;Love+building+awesome+projects" alt="Typing Animation" />
-</p>
-
-<h1 align="center" style="color:white;">Hi 👋, I'm <strong>Deepanshu Dashore</strong></h1>
 <h3 align="center" style="color:white;">A passionate Web Developer from India 🚀</h3>
+</p>
 
 
 <p align="center">
@@ -36,8 +34,16 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,firebase,JWT,postman,canva" />
+  <!-- Skillicons (supported) -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,firebase,postman" />
+
+  <!-- Manual Canva Icon -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+  <!-- Manual JWT Icon -->
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
+
 
 ---
 
