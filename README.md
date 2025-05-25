@@ -1,5 +1,14 @@
 <!-- GitHub Profile README for Deepanshu Dashore -->
 
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=#fff&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Dashore;Web+Developer+%7C+MERN+Stack+Enthusiast;Love+building+awesome+projects" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/151617949?v=4" width="150" alt="Deepanshu Dashore" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepanshu Dashore</h1>
 <h3 align="center">A passionate Web Developer from India 🚀</h3>
 
