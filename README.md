@@ -82,9 +82,6 @@ Currently, I'm exploring advanced React patterns, backend optimization with Node
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-dashore&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
 
-### 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=Deepanshu-dashore&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=FFFFFF" alt="GitHub Streak" />
 
 ### 📊 Activity Graph
 
@@ -95,13 +92,6 @@ Currently, I'm exploring advanced React patterns, backend optimization with Node
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-dashore&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepanshu-dashore/Deepanshu-dashore/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 </div>
 
 ---
