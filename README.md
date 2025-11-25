@@ -99,15 +99,6 @@ Currently, I'm exploring advanced React patterns, backend optimization with Node
 ## 💼 Featured Projects
 
 <div align="center">
-
-### 🌟 Mharo Nimar
-**MERN-based cultural platform** showcasing regional culture and heritage.
-
-### 🏫 Techno Park – School of CS
-**Departmental website** with comprehensive user and admin panels for managing academic resources.
-
-Got it 👍 — you’d like me to reformat your project list into the **clean, concise style** you showed (heading + short description). Here’s how your projects look in that format:
-
 ---
 
 ### 🌟 Mharo Nimar  
