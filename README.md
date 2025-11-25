@@ -106,6 +106,35 @@ Currently, I'm exploring advanced React patterns, backend optimization with Node
 ### 🏫 Techno Park – School of CS
 **Departmental website** with comprehensive user and admin panels for managing academic resources.
 
+Got it 👍 — you’d like me to reformat your project list into the **clean, concise style** you showed (heading + short description). Here’s how your projects look in that format:
+
+---
+
+### 🌟 Mharo Nimar  
+**Full-stack cultural platform** preserving Nimar Lok Kala with blogs, artist profiles, events, podcasts, and admin control.  
+
+### 🏫 Techno Park – School of CS  
+**Departmental website** with comprehensive user and admin panels for managing academic resources.  
+
+### 🧼 CC Mating  
+**Contamination control web app** presenting mats, product specifications, and industrial solutions.  
+
+### 📚 Catalyser  
+**Educational coaching platform** for IIT-JEE aspirants with course management, resources, and interactive tools.  
+
+### 💳 Nexa Point  
+**Billing & inventory system** supporting GST-inclusive billing, invoice PDFs, and mobile-friendly dashboards.  
+
+### 👕 Unicodes Uniform  
+**E-commerce platform** for school uniforms with product filtering, cart, order tracking, and stock alerts.  
+
+### 🏢 ERP System  
+**Enterprise resource planning solution** with role-based dashboards, invoice generation, analytics, and modular scalability.  
+
+### 🧾 Billing App  
+**Minimalistic billing web app** for shop owners with transaction tracking, earnings calculation, and auto-generated PDF invoices.  
+
+
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepanshu-dashore.netlify.app/)
 
 </div>
