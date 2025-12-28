@@ -7,11 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Applications;Creating+Scalable+Solutions;Code+with+Logic+%7C+Design+with+Empathy)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/151617949?v=4" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.5);" alt="Deepanshu Dashore" />
-<iframe src="https://www.linkedin.com/in/deepanshu-dashore" 
-        width="800" 
-        height="600" 
-        style="border:none;box-shadow: 0 0 20px rgba(0,217,255,0.5);">
-</iframe>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/deepanshu-dashore)
+
 
 
 I'm a passionate web developer focused on creating interactive, scalable, and high-performance web applications using modern JavaScript technologies.
