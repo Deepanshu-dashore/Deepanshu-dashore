@@ -1,8 +1,17 @@
-# About
+I am Deepanshu — a software engineer focused on building reliable, maintainable, and user-centered web applications. I enjoy working across the stack, from designing APIs and backend systems to crafting intuitive front-end experiences. My day-to-day strengths are problem solving, clean code, and continuous learning.
 
-I'm Deepanshu Dashore — a software engineer with a focus on building reliable, maintainable, and user-centered web applications. I enjoy solving hard problems, learning new technologies, and writing clear, well-tested code.
+What I do
+- Build full-stack web applications using modern frameworks and cloud platforms.
+- Design RESTful APIs and microservices with attention to observability and testability.
+- Implement accessible, responsive UI with performance and user experience in mind.
 
-- Current focus: Full-stack development, TypeScript, Node.js, and cloud-native systems
-- Interests: Developer experience, open-source software, automation, and mentoring
+Goals
+- Contribute to open-source projects and collaborate with diverse teams.
+- Improve system design skills and mentor junior engineers.
 
-I welcome collaboration — check out my projects and contact me if you'd like to work together.
+Tools & technologies I use
+- Languages: JavaScript (Node.js), TypeScript, Python
+- Frontend: React, Next.js, HTML, CSS (Tailwind)
+- Backend: Node.js, Express, FastAPI
+- Databases: PostgreSQL, MongoDB
+- DevOps & Cloud: Git, Docker, GitHub Actions, AWS

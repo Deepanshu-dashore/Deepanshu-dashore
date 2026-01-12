@@ -1,9 +1,19 @@
-# Projects
+Featured Projects
 
-Below are highlights of projects I maintain or contribute to. For more details, see the individual repositories in my GitHub profile.
+1) Project A — "Modern Web App"
+- Description: A full-stack web application with authentication, role-based access, and real-time updates.
+- Technologies: React, Node.js, PostgreSQL, WebSockets
+- Link: (Add repo or live link here)
 
-- Project A — A short description of the project, its purpose, and technologies used (e.g., TypeScript, React, Node.js).
-- Project B — A command-line tool for automation and developer workflows (e.g., Go / Python).
-- Project C — An open-source library for common utilities and helpers used across projects.
+2) Project B — "API Service"
+- Description: A well-documented REST API with automated tests and CI/CD pipeline.
+- Technologies: FastAPI, PostgreSQL, Docker, GitHub Actions
+- Link: (Add repo or live link here)
 
-If you'd like to see code samples or deployment notes for any project, open an issue or contact me.
+3) Project C — "UI Library"
+- Description: A reusable component library with accessibility-first components and theming.
+- Technologies: TypeScript, React, Storybook
+- Link: (Add repo or live link here)
+
+How to view more
+- Check the repositories tab or add links here to specific repos and deployments.

@@ -1,15 +1,16 @@
-# Skills
+Technical Skills
 
-Technical:
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, Next.js, HTML, CSS, Tailwind, SASS
+- Backend: Node.js, Express, FastAPI
+- Databases: PostgreSQL, SQLite, MongoDB
+- Testing: Jest, React Testing Library, PyTest
+- DevOps: Docker, GitHub Actions, CI/CD pipelines
+- Cloud: AWS (EC2, S3, Lambda), Vercel
 
-- Languages: TypeScript, JavaScript, Python, Go
-- Frameworks & Libraries: React, Next.js, Express, Fastify
-- Databases: PostgreSQL, MongoDB, Redis
-- Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD
-- Testing & Quality: Jest, Playwright, ESLint, Prettier
+Soft Skills
 
-Professional:
-
-- Strong communication and code review skills
-- Experience mentoring junior engineers
-- Focus on accessibility, performance, and security
+- Problem solving and debugging
+- Clear technical communication and documentation
+- Mentoring and teamwork
+- Time management and project planning

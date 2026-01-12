@@ -1,9 +1,7 @@
-# Contact
-
-I'd love to hear from you. Here are some ways to reach me:
+Contact
 
 - GitHub: https://github.com/Deepanshu-dashore
-- Email: deepanshu.dashore@example.com
-- LinkedIn: https://www.linkedin.com/in/deepanshu-dashore (replace with your profile URL)
+- Email: your.email@example.com (replace with preferred email)
+- LinkedIn: https://www.linkedin.com/in/your-linkedin (replace with your LinkedIn)
 
-Prefer to keep contact details private? Open an issue or reach out through GitHub discussions.
+Feel free to reach out for collaborations, open-source contributions, or contract work.
