@@ -1,164 +1,187 @@
 <div align="center">
-  
-# 👋 Hi, I'm Deepanshu Dashore
 
-### 💻 Full Stack Web Developer | React.js Enthusiast | MERN Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Full-Stack+Developer;MERN+%7C+NestJS+%7C+ERP+%7C+SaaS+Systems" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Interactive+Web+Applications;Creating+Scalable+Solutions;Code+with+Logic+%7C+Design+with+Empathy)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://avatars.githubusercontent.com/u/151617949?v=4" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.5);" alt="Deepanshu Dashore" />
+<table>
+<tr>
+<td width="60%" align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/deepanshu-dashore)
+## Full-Stack Engineer
 
+### MERN + NestJS Specialist | ERP & SaaS Builder
 
+I design and build scalable backend systems and high-performance React applications focused on real business impact.
 
-I'm a passionate web developer focused on creating interactive, scalable, and high-performance web applications using modern JavaScript technologies.
+* API-first backend architecture
+* JWT & Role-Based Authentication
+* Modular scalable folder structures
+* Production-ready dashboards
+* Clean & maintainable system design
 
-Currently, I'm exploring advanced React patterns, backend optimization with Node.js, and clean UI design using Tailwind CSS & Framer Motion.
+</td>
+<td width="40%" align="center">
+<img src="https://avatars.githubusercontent.com/u/151617949?v=4" width="180" style="border-radius:20px; border:3px solid #00D9FF; box-shadow:0 0 20px rgba(0,217,255,0.4);" />
+</td>
+</tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepanshu-dashore.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshudashore48@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge\&logo=vercel\&logoColor=black)](https://deepanshu-dashore.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Deepanshu-dashore)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+# Core Expertise
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
+### 🖥 Frontend Engineering
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+* Scalable React architectures
+* Next.js SSR & routing
+* Animated UI (Framer Motion)
+* Performance optimization
 
-### Skill Icons
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,postman" alt="Tech Stack" />
-</p>
+</td>
+<td width="33%" valign="top">
 
----
+### ⚙️ Backend Engineering
 
-## 🧠 About Me
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 
-- 🎓 **BCA Graduate** from **Dr. C.V. Raman University** with **92.5%**
+* 130+ REST APIs built
+* NestJS modular architecture
+* JWT & RBAC systems
+* ERP & Billing backend design
 
-- 🏗️ **Built and deployed multiple live projects** including:
-  - **Mharo Nimar** – MERN-based cultural platform
-  - **Techno Park – School of CS** – Departmental website with user/admin panels
+</td>
+<td width="33%" valign="top">
 
-- 🔧 Completed a **3-month internship** on **ERP system development**
+### 🗄 Database & DevOps
 
-- 🌐 Always eager to learn, collaborate, and contribute to impactful open-source projects
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vercel" />
 
-- 💡 Currently exploring advanced React patterns, backend optimization, and clean UI design
+* MongoDB schema design
+* PostgreSQL relational modeling
+* Deployment pipelines
+* Clean release workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# Professional Experience
+
+## 🚀 Freelance MERN Stack Developer
+
+**May 2025 – Present (6+ Months)**
+
+* Developed ERP systems & billing platforms for real clients
+* Built **130+ production REST APIs**
+* Designed MongoDB & PostgreSQL schemas
+* Implemented NestJS modular backend structures
+* Delivered scalable dashboard systems
+
+---
+
+## 🧩 React JS Developer Intern – INDIDEVELOPERS
+
+**Jan 2025 – Apr 2025 (4 Months)**
+
+* Built responsive UI systems
+* Integrated APIs into client dashboards
+* Improved UI performance & code maintainability
+
+---
+
+## 🏢 Frontend Developer Intern – AISECT Infotech Ltd
+
+**Sep 2024 – Dec 2024 (4 Months)**
+
+* Contributed to university platform (500+ users)
+* Assisted deployment & optimization
+* Worked in agile team environment
+
+---
+
+# Featured Projects
+
+## 🌟 Mharo Nimar – Cultural-Tech MERN Platform
+
+* Role-based admin dashboard
+* Media, blog & event management
+* Modular backend architecture
+* Live deployment with custom domain
+
+---
+
+## 🏗 ERP System – Institutional Management
+
+* Multi-role authentication
+* Billing & invoice PDF generation
+* Inventory & transaction modules
+* Scalable backend APIs
+
+---
+
+## 💳 Billing Application (Live)
+
+* Secure authentication & authorization
+* Vendor, expense & transaction modules
+* Production-ready scalable backend
+
+---
+
+# System Architecture Approach
+
+* Modular NestJS + Express backend layering
+* API-first service separation
+* Scalable RBAC implementation
+* Query optimization strategies
+* Maintainable clean code standards
+
+---
+
+# GitHub Contribution Graph
 
 <div align="center">
 
-### 📈 GitHub Statistics & Top Languages
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-dashore&show_icons=true&theme=github_dark&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-dashore&layout=compact&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-dashore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-dashore&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
-
-
-### 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" />
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-dashore&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-</p>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
----
-
-### 🌟 Mharo Nimar  
-**Full-stack cultural platform** preserving Nimar Lok Kala with blogs, artist profiles, events, podcasts, and admin control.  
-
-### 🏫 Techno Park – School of CS  
-**Departmental website** with comprehensive user and admin panels for managing academic resources.  
-
-### 🧼 CC Mating  
-**Contamination control web app** presenting mats, product specifications, and industrial solutions.  
-
-### 📚 Catalyser  
-**Educational coaching platform** for IIT-JEE aspirants with course management, resources, and interactive tools.  
-
-### 💳 Nexa Point  
-**Billing & inventory system** supporting GST-inclusive billing, invoice PDFs, and mobile-friendly dashboards.  
-
-### 👕 Unicodes Uniform  
-**E-commerce platform** for school uniforms with product filtering, cart, order tracking, and stock alerts.  
-
-### 🏢 ERP System  
-**Enterprise resource planning solution** with role-based dashboards, invoice generation, analytics, and modular scalability.  
-
-### 🧾 Billing App  
-**Minimalistic billing web app** for shop owners with transaction tracking, earnings calculation, and auto-generated PDF invoices.  
-
-
-[![Portfolio](https://img.shields.io/badge/View_All_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepanshu-dashore.netlify.app/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+# About
 
-<div align="center">
+Junior Full-Stack Engineer with real production exposure in ERP systems, SaaS dashboards, billing platforms, and modular backend architectures.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepanshu-dashore.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshudashore48@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
-
-</div>
+Strong foundation in React, Node.js, NestJS, MongoDB, and PostgreSQL with focus on scalable system design and clean architecture principles.
 
 ---
 
 <div align="center">
 
-### ⭐ Motto
-
-> *"Code with logic, design with empathy, and deliver with consistency."*
-
----
-
-**⭐️ From [Deepanshu Dashore](https://github.com/Deepanshu-dashore) with ❤️**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Deepanshu-dashore&color=00D9FF&style=for-the-badge)
+### "Code with logic. Build with structure. Deliver with consistency."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
