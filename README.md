@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Full-Stack+Developer;MERN+%7C+NestJS+%7C+ERP+%7C+SaaS+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+as+Full-Stack+Developer;MERN+%7C+NestJS+%7C+ERP+%7C+SaaS+Systems" />
 
 <br/>
 
@@ -158,11 +158,6 @@ I design and build scalable backend systems and high-performance React applicati
 # GitHub Contribution Graph
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-dashore&show_icons=true&theme=github_dark&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-dashore&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" />
 
