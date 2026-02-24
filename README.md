@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+as+Full-Stack+Developer;MERN+%7C+NestJS+%7C+ERP+%7C+SaaS+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+as+Full-Stack+Developer;MERN+%7C+NextJS+%7C+ERP++NestJS+%7C+ERP+%7C+SaaS+Systems" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 ## Full-Stack Engineer
 
-### MERN + NestJS Specialist | ERP & SaaS Builder
+### MERN + NextJS + NestJS | ERP & SaaS Builder
 
 I design and build scalable backend systems and high-performance React applications focused on real business impact.
 
