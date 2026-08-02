@@ -86,6 +86,28 @@ I design and build scalable backend systems and high-performance React applicati
 
 # Professional Experience
 
+## <img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" alt="software"/> Software Engineer — Full Stack Systems — AISECT INDIA · Full-time
+
+**Mar 2026 – Present · 6 mos**
+
+Khandwa, Madhya Pradesh, India · On-site
+
+Building scalable web applications and internal systems focused on performance, usability, and clean architecture.
+
+Currently working on modern full-stack solutions using Next.js, React, Node.js, NestJS, MongoDB, and Tailwind CSS.
+
+My work includes:
+• Admin dashboards & CMS systems
+• Authentication & role-based access
+• REST APIs & backend architecture
+• Data visualization & analytics
+• Performance optimization
+• Real-world production deployments
+
+Focused on creating maintainable systems that solve practical operational problems while improving user experience and scalability.
+
+---
+
 ## <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="20" alt="rocket"/> Freelance MERN Stack Developer
 
 **May 2025 – Present (6+ Months)**
