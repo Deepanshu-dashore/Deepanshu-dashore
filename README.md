@@ -30,6 +30,13 @@ I design and build scalable backend systems and high-performance React applicati
 
 <br/>
 
+<!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
+
+<br/>
+<img src="./assets/banner.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=black)](https://deepanshu-dashore.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
