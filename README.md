@@ -5,7 +5,7 @@
 
 <br/>
 
-<table>
+<!-- <table>
 <tr>
 <td width="60%" align="left">
 
@@ -26,7 +26,7 @@ I design and build scalable backend systems and high-performance React applicati
 <img src="https://avatars.githubusercontent.com/u/151617949?v=4" width="180" style="border-radius:20px; border:3px solid #00D9FF; box-shadow:0 0 20px rgba(0,217,255,0.4);" />
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 
