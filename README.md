@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+as+Full-Stack+Developer;MERN+%7C+NextJS+%7C+NestJS+%7C+ERP+%7C+SaaS+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+Stack+|+NextJS+|+NestJS" />
 
 <br/>
 
@@ -30,10 +30,10 @@ I design and build scalable backend systems and high-performance React applicati
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge\&logo=vercel\&logoColor=black)](https://deepanshu-dashore.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Deepanshu-dashore)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=black)](https://deepanshu-dashore.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
 
 </div>
 
@@ -86,7 +86,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 # Professional Experience
 
-## 🚀 Freelance MERN Stack Developer
+## <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="20" alt="rocket"/> Freelance MERN Stack Developer
 
 **May 2025 – Present (6+ Months)**
 
@@ -98,7 +98,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 ---
 
-## 🧩 React JS Developer Intern – INDIDEVELOPERS
+## <img src="https://img.icons8.com/fluency/48/000000/puzzle.png" width="20" alt="puzzle"/> React JS Developer Intern – INDIDEVELOPERS
 
 **Jan 2025 – Apr 2025 (4 Months)**
 
@@ -108,7 +108,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 ---
 
-## 🏢 Frontend Developer Intern – AISECT Infotech Ltd
+## <img src="https://img.icons8.com/fluency/48/000000/company.png" width="20" alt="company"/> Frontend Developer Intern – AISECT Infotech Ltd
 
 **Sep 2024 – Dec 2024 (4 Months)**
 
