@@ -45,7 +45,7 @@ I design and build scalable backend systems and high-performance React applicati
 <tr>
 <td width="33%" valign="top">
 
-### 🖥 Frontend Engineering
+### <img src="https://img.icons8.com/fluency/48/000000/laptop.png" width="20" alt="frontend"/> Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
 
@@ -57,7 +57,7 @@ I design and build scalable backend systems and high-performance React applicati
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Backend Engineering
+### <img src="https://img.icons8.com/fluency/48/000000/server.png" width="20" alt="backend"/> Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 
@@ -69,7 +69,7 @@ I design and build scalable backend systems and high-performance React applicati
 </td>
 <td width="33%" valign="top">
 
-### 🗄 Database & DevOps
+### <img src="https://img.icons8.com/fluency/48/000000/database.png" width="20" alt="database"/> Database & DevOps
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vercel" />
 
@@ -129,7 +129,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 ---
 
-## 🏗 ERP System – Institutional Management
+## <img src="https://img.icons8.com/fluency/48/000000/architecture.png" width="20" alt="erp-system"/> ERP System – Institutional Management
 
 * Multi-role authentication
 * Billing & invoice PDF generation
