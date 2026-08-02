@@ -36,6 +36,7 @@ I design and build scalable backend systems and high-performance React applicati
 <img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%202%2C%202026%2C%2010_06_42%20PM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
 
 <br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=black)](https://deepanshu-dashore.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
