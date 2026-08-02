@@ -120,7 +120,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 # Featured Projects
 
-## 🌟 Mharo Nimar – Cultural-Tech MERN Platform
+## <img src="https://img.icons8.com/fluency/48/000000/museum.png" width="20" alt="mharo-nimar"/> Mharo Nimar – Cultural-Tech MERN Platform
 
 * Role-based admin dashboard
 * Media, blog & event management
@@ -138,7 +138,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 ---
 
-## 💳 Billing Application (Live)
+## <img src="https://img.icons8.com/fluency/48/000000/invoice.png" width="20" alt="billing"/> Billing Application (Live)
 
 * Secure authentication & authorization
 * Vendor, expense & transaction modules
