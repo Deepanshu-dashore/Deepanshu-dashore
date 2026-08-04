@@ -1,10 +1,6 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+Stack+|+NextJS+|+NestJS" />
-
-<br/>
-
 <!-- <table>
 <tr>
 <td width="60%" align="left">
@@ -36,6 +32,9 @@ I design and build scalable backend systems and high-performance React applicati
 <img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
 
 <br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+Stack+|+NextJS+|+NestJS" />
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=black)](https://deepanshu-dashore.netlify.app/)
