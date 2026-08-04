@@ -33,7 +33,7 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%202%2C%202026%2C%2010_06_42%20PM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
 
 <br/>
 <br/>
