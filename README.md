@@ -29,11 +29,11 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:[...]" />
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:8px;" />
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Workin[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+%2F+Next.js+%2F+NestJS;Building+ERP+%26+SaaS+systems" />
 
 <br/>
 
@@ -179,4 +179,83 @@ _Cultural-Tech MERN Platform_
 </td>
 <td width="33%" valign="top" align="left">
 
-{
+**ERP System**  
+_Institutional Management_  
+- Multi-role authentication · Billing & PDF invoices  
+- Inventory & transaction modules  
+
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**Billing Application (Live)**  
+_Secure billing & transactions_  
+- Vendor & expense management · Production-ready backend  
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="left">
+
+**CC Matting (Live)**  
+_Cleanroom matting & contamination-control platform_  
+- Cleanroom interactive demos (3D particulate visualizations using Three.js / R3F)  
+- B2B order management with multi-tier workflows (customers → distributors → warehouse)  
+- Automated PDF quotes & industry-specific portals (Data Centers, Bio‑Pharma, Microelectronics)  
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**Raman Anusandhanikee Research Journal (Live)**  
+_Peer-reviewed academic research portal & publishing platform_  
+- Peer review workflow · Manuscript triage & publishing · Soft-delete & trash system  
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Clerk](https://img.shields.io/badge/-Clerk-111827?style=flat-square)](https://clerk.com) [![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+# System Architecture Approach
+
+* Modular NestJS + Express backend layering
+* API-first service separation
+* Scalable RBAC implementation
+* Query optimization strategies
+* Maintainable clean code standards
+
+---
+
+# GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# About
+
+Junior Full-Stack Engineer with real production exposure in ERP systems, SaaS dashboards, billing platforms, and modular backend architectures.
+
+Strong foundation in React, Node.js, NestJS, MongoDB, and PostgreSQL with focus on scalable system design and clean architecture principles.
+
+---
+
+<div align="center">
+
+### "Code with logic. Build with structure. Deliver with consistency."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
