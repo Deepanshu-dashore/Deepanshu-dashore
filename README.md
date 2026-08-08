@@ -29,11 +29,11 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:8px;" />
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+Stack+|+NextJS+|+NestJS" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+%2F+Next.js+%2F+NestJS;Building+ERP+%26+SaaS+systems" />
 
 <br/>
 
@@ -93,57 +93,43 @@ I design and build scalable backend systems and high-performance React applicati
 
 # Professional Experience
 
-## <img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" alt="software"/> Software Engineer — Full Stack Systems — AISECT INDIA · Full-time
+A concise overview of selected roles focused on impact and results.
 
-**Mar 2026 – Present · 6 mos**
+### Software Engineer — Full Stack Systems
+**AISECT INDIA** · Khandwa, Madhya Pradesh · Full-time
+_Mar 2026 – Present_
 
-Khandwa, Madhya Pradesh, India · On-site
-
-Building scalable web applications and internal systems focused on performance, usability, and clean architecture.
-
-Currently working on modern full-stack solutions using Next.js, React, Node.js, NestJS, MongoDB, and Tailwind CSS.
-
-My work includes:
-• Admin dashboards & CMS systems
-• Authentication & role-based access
-• REST APIs & backend architecture
-• Data visualization & analytics
-• Performance optimization
-• Real-world production deployments
-
-Focused on creating maintainable systems that solve practical operational problems while improving user experience and scalability.
+- Built and maintained production web applications using Next.js, React, Node.js and NestJS.
+- Designed modular backend services, RBAC authentication, and 130+ REST APIs for internal platforms.
+- Delivered admin dashboards, data visualizations, and production deployments with performance improvements.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="20" alt="rocket"/> Freelance MERN Stack Developer
+### Freelance MERN Stack Developer
+**Self‑employed** · Remote
+_May 2025 – Present_
 
-**May 2025 – Present (6+ Months)**
-
-* Developed ERP systems & billing platforms for real clients
-* Built **130+ production REST APIs**
-* Designed MongoDB & PostgreSQL schemas
-* Implemented NestJS modular backend structures
-* Delivered scalable dashboard systems
+- Delivered ERP and billing systems for small businesses with clean UX and stable backends.
+- Implemented modular NestJS backends and designed MongoDB/PostgreSQL schemas for scalability.
+- Focused on maintainability, testing, and deployment-ready releases.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/puzzle.png" width="20" alt="puzzle"/> React JS Developer Intern – INDIDEVELOPERS
+### React JS Developer Intern
+**INDIDEVELOPERS** · Remote
+_Jan 2025 – Apr 2025_
 
-**Jan 2025 – Apr 2025 (4 Months)**
-
-* Built responsive UI systems
-* Integrated APIs into client dashboards
-* Improved UI performance & code maintainability
+- Built responsive interfaces and integrated APIs into client dashboards.
+- Improved UI performance and code maintainability.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/000000/company.png" width="20" alt="company"/> Frontend Developer Intern – AISECT Infotech Ltd
+### Frontend Developer Intern
+**AISECT Infotech Ltd** · On-site
+_Sep 2024 – Dec 2024_
 
-**Sep 2024 – Dec 2024 (4 Months)**
-
-* Contributed to university platform (500+ users)
-* Assisted deployment & optimization
-* Worked in agile team environment
+- Contributed to a university platform serving 500+ users; assisted with deployments and optimizations.
+- Collaborated within an agile team to deliver features and fixes.
 
 ---
 
