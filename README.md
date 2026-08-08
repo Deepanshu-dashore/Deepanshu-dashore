@@ -89,6 +89,15 @@ I design and build scalable backend systems and high-performance React applicati
 </tr>
 </table>
 
+<!-- Things I code with -->
+<div align="center">
+
+### Things I code with
+
+<img src="https://skillicons.dev/icons?i=react,webpack,docker,githubactions,gcp,typescript,insomnia,apollographql,heroku,redux,rxjs,graphql,sass,styledcomponents,git,nestjs,angular,npm,html,brave,rollup,d3,prettier,mongodb,nodejs" alt="tech icons" />
+
+</div>
+
 ---
 
 # Professional Experience
