@@ -29,11 +29,11 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:8px;" />
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:[...]" />
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+%2F+Next.js+%2F+NestJS;Building+ERP+%26+SaaS+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Workin[...]" />
 
 <br/>
 
@@ -189,51 +189,4 @@ _Institutional Management_
 </td>
 <td width="33%" valign="top" align="left">
 
-**Billing Application (Live)**  
-_Secure billing & transactions_  
-- Vendor & expense management · Production-ready backend  
-
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-# System Architecture Approach
-
-* Modular NestJS + Express backend layering
-* API-first service separation
-* Scalable RBAC implementation
-* Query optimization strategies
-* Maintainable clean code standards
-
----
-
-# GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-# About
-
-Junior Full-Stack Engineer with real production exposure in ERP systems, SaaS dashboards, billing platforms, and modular backend architectures.
-
-Strong foundation in React, Node.js, NestJS, MongoDB, and PostgreSQL with focus on scalable system design and clean architecture principles.
-
----
-
-<div align="center">
-
-### "Code with logic. Build with structure. Deliver with consistency."
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+We need to add new project. Continue content after 196 lines. Let's craft new content. We'll append a new <tr> with colspan=3 as planned. Need to finish content correctly. We'll include badges for Clerk and AWS S3; for Clerk use logo=clerk; shields may support it. Use AWS S3 with logo=amazonaws. Continue file. Let's construct rest.
