@@ -90,10 +90,9 @@ I design and build scalable backend systems and high-performance React applicati
 </table>
 
 <!-- Things I code with -->
-<div align="center">
+<div align="left">
 
 ### Things I code with
-
 
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) 
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) 
@@ -102,9 +101,9 @@ I design and build scalable backend systems and high-performance React applicati
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) 
-[![React Query](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org) 
+[![React Query](https://img.shields.io/badge/-React_Query-3178C6?style=flat-square&logo=tanstack&logoColor=white)](https://tanstack.com/query) 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) 
-[![Apollo](https://img.shields.io/badge/-Apollo_BG-311C87?style=flat-square&logo=apollographql&logoColor=white)](https://www.apollographql.com) 
+[![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)](https://www.apollographql.com) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) 
