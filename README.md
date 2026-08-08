@@ -173,7 +173,8 @@ _Sep 2024 – Dec 2024_
 _Cultural-Tech MERN Platform_  
 - Role-based admin dashboard · Media & event management  
 - Modular backend · Live deployment  
-Technologies: `React` · `Node.js` · `MongoDB` · `Express`
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 
 </td>
 <td width="33%" valign="top" align="left">
@@ -182,7 +183,8 @@ Technologies: `React` · `Node.js` · `MongoDB` · `Express`
 _Institutional Management_  
 - Multi-role authentication · Billing & PDF invoices  
 - Inventory & transaction modules  
-Technologies: `NestJS` · `PostgreSQL` · `TypeScript`
+
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 </td>
 <td width="33%" valign="top" align="left">
@@ -190,7 +192,8 @@ Technologies: `NestJS` · `PostgreSQL` · `TypeScript`
 **Billing Application (Live)**  
 _Secure billing & transactions_  
 - Vendor & expense management · Production-ready backend  
-Technologies: `Node.js` · `NestJS` · `MongoDB`
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 </td>
 </tr>
