@@ -165,85 +165,73 @@ _Sep 2024 – Dec 2024_
 # Featured Projects
 
 ## 📚 Library SMS *(Live)*
-> **Digital Library Seat Allocation & Subscription Management Platform**
+Digital Library Seat Allocation & Subscription Management Platform
 
-**Interactive seat management & real-time seat calendar** (bulk registration & visual seat layout)  
-**Subscription & member lifecycle management** (multi-tier plans, renewals & trash/recycle bin recovery)  
-**Financial operations & automated PDF receipts** (payment reports, expense tracking & banking insights)
+Interactive seat management & real-time seat calendar  
+Subscription & member lifecycle management · Financial operations & automated PDF receipts
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com) [![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)](https://resend.com)
+Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Resend
 
 ---
 
 ## 🌱 Raman Green *(Live)*
-> **Premium Organic Agricultural Platform & Heritage Grain E-Commerce**
+Premium Organic Agricultural Platform & Heritage Grain E-Commerce
 
-**Organic Product Catalog & E-Commerce** (heritage grains, organic seeds, dry foods, and millet snacks with real-time inventory)  
-**User Authentication & Personalization** (Google OAuth integration, secure registration, personalized shopping with wishlist and reviews)  
-**Admin Dashboard & Management** (comprehensive product, category, inventory, and stock management with system settings)  
-**Community & Sustainability** (direct farmer linkage program empowering tribal communities with fair pricing and organic cultivation training)
+Organic product catalog & e-commerce · User authentication & personalization  
+Admin dashboard & management · Community & sustainability (tribal farmer linkage)
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com) [![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion)
+Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Framer Motion
 
 ---
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top" align="left">
+## Other Notable Projects
 
 **Mharo Nimar**  
-_Cultural-Tech MERN Platform_  
-- Role-based admin dashboard · Media & event management  
-- Modular backend · Live deployment  
+Cultural-Tech MERN Platform
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+Role-based admin dashboard · Media & event management  
+Modular backend · Live deployment
 
-</td>
-<td width="33%" valign="top" align="left">
+React · Node.js · MongoDB · Express
+
+---
 
 **ERP System**  
-_Institutional Management_  
-- Multi-role authentication · Billing & PDF invoices  
-- Inventory & transaction modules  
+Institutional Management
 
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
+Multi-role authentication · Billing & PDF invoices  
+Inventory & transaction modules
 
-</td>
-<td width="33%" valign="top" align="left">
+NestJS · PostgreSQL · TypeScript · React
+
+---
 
 **Billing Application (Live)**  
-_Secure billing & transactions_  
-- Vendor & expense management · Production-ready backend  
+Secure billing & transactions
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+Vendor & expense management · Production-ready backend
 
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="left">
+Node.js · NestJS · PostgreSQL
+
+---
 
 **CC Matting (Live)**  
-_Cleanroom matting & contamination-control platform_  
-- Cleanroom interactive demos (3D particulate visualizations using Three.js / R3F)  
-- B2B order management with multi-tier workflows (customers → distributors → warehouse)  
-- Automated PDF quotes & industry-specific portals (Data Centers, Bio‑Pharma, Microelectronics)  
+Cleanroom matting & contamination-control platform
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org)
+Cleanroom interactive demos (3D particulate visualizations using Three.js / R3F)  
+B2B order management with multi-tier workflows (customers → distributors → warehouse)  
+Automated PDF quotes & industry-specific portals (Data Centers, Bio‑Pharma, Microelectronics)
 
-</td>
-<td width="33%" valign="top" align="left">
+Next.js · React · Three.js
+
+---
 
 **Raman Anusandhanikee Research Journal (Live)**  
-_Peer-reviewed academic research portal & publishing platform_  
-- Peer review workflow · Manuscript triage & publishing · Soft-delete & trash system  
+Peer-reviewed academic research portal & publishing platform
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+Peer review workflow · Manuscript triage & publishing · Soft-delete & trash system
 
-</td>
-</tr>
-</table>
-</div>
+Next.js · React · MongoDB
 
 ---
 
