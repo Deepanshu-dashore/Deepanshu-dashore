@@ -34,7 +34,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Full-S[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Fu[...]" />
 
 <br/>
 
@@ -292,9 +292,15 @@ _Peer-reviewed academic research portal & publishing platform_
 
 # About
 
-Junior Full-Stack Engineer with real production exposure in ERP systems, SaaS dashboards, billing platforms, and modular backend architectures.
+Deepanshu Dashore — Junior Full‑Stack Engineer currently working as Software Engineer (Full Stack Systems) at AISECT INDIA, Khandwa, Madhya Pradesh.
 
-Strong foundation in React, Node.js, NestJS, MongoDB, and PostgreSQL with focus on scalable system design and clean architecture principles.
+I build production-ready web applications and scalable backend systems focused on real business impact. My work spans ERP platforms, billing systems, and SaaS dashboards where I design API-first services, role-based authentication, and maintainable modular architectures.
+
+Core skills: Next.js, React, NestJS, Node.js, TypeScript, MongoDB, PostgreSQL, Tailwind CSS, performance optimization, and CI/CD.
+
+Open to: Full‑time roles, freelance projects, and collaboration on product-driven engineering teams.
+
+Contact: dipanshu.dashore.dev@gmail.com · Portfolio: https://deepanshu-dashore.netlify.app/ · LinkedIn: https://www.linkedin.com/in/deepanshu-dashore/
 
 ---
 
