@@ -180,7 +180,7 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 <tr>
 <td width="75%" align="left" valign="top">
 
-### <img src="https://img.icons8.com/fluency/48/000000/organization.png" width="20" alt="company"/> Software Engineer — Full Stack Systems
+### <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGCNshM9mZyPg/img-crop_100/B4DZ1jcLwDI4AU-/0/1775489827131?e=1787788800&v=beta&t=pT-aj1yMQsVIwac-VktcBvifeDKgTWMvStR-xYzdkT4" width="22" height="22" style="border-radius:4px; vertical-align:middle;" alt="AISECT INDIA"/> Software Engineer — Full Stack Systems
 **AISECT INDIA** · *Khandwa, MP*
 
 - Built and maintained production web applications using **Next.js**, **React**, **Node.js** and **NestJS**.
@@ -203,7 +203,7 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 <tr>
 <td width="75%" align="left" valign="top">
 
-### <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="20" alt="freelance"/> Freelance MERN Stack Developer
+### <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="22" alt="freelance"/> Freelance MERN Stack Developer
 **Self‑Employed** · *Remote*
 
 - Delivered ERP and billing systems for small businesses and clients with clean UX and stable backends.
@@ -226,7 +226,7 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 <tr>
 <td width="75%" align="left" valign="top">
 
-### <img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" alt="intern"/> React JS Developer Intern
+### <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGoyiDgqlaspg/company-logo_100_100/company-logo_100_100/0/1732355172559/indi_developers_logo?e=1787788800&v=beta&t=Xk6YE2mkQUgOW7lLATq02ccslpcwlE_qQZ_S7JfVYe4" width="22" height="22" style="border-radius:4px; vertical-align:middle;" alt="INDIDEVELOPERS"/> React JS Developer Intern
 **INDIDEVELOPERS** · *Remote*
 
 - Built responsive UI components and integrated REST APIs into client analytics dashboards.
@@ -248,7 +248,7 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 <tr>
 <td width="75%" align="left" valign="top">
 
-### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="20" alt="university"/> Frontend Developer Intern
+### <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGCNshM9mZyPg/img-crop_100/B4DZ1jcLwDI4AU-/0/1775489827131?e=1787788800&v=beta&t=pT-aj1yMQsVIwac-VktcBvifeDKgTWMvStR-xYzdkT4" width="22" height="22" style="border-radius:4px; vertical-align:middle;" alt="AISECT Infotech"/> Frontend Developer Intern
 **AISECT Infotech Ltd** · *On-site*
 
 - Contributed to a university platform serving **500+ users**; assisted with production deployments and optimizations.
