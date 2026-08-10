@@ -35,8 +35,6 @@ I design and build scalable backend systems and high-performance React applicati
 <br/>
 <br/>
 
-<h1><img src="https://raw.githubusercontent.com/MartinMuzatko/gif-collection/master/wave.gif" width="38px" alt="wave"/> Hello & Welcome!</h1>
-
 <a href="https://github.com/Deepanshu-dashore">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Deepanshu+Dashore!;Software+Engineer+(Full+Stack+Systems);Building+Scalable+ERPs%2C+SaaS+%26+APIs;Welcome+to+my+GitHub+Profile!%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -103,48 +101,56 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 
 ---
 
-# Core Expertise
+# <img src="https://img.icons8.com/fluency/48/000000/processor.png" width="28" alt="expertise"/> Core Expertise
 
+<div align="center">
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-### <img src="https://img.icons8.com/fluency/48/000000/laptop.png" width="20" alt="frontend"/> Frontend Engineering
+### <img src="https://img.icons8.com/fluency/48/000000/laptop.png" width="22" alt="frontend"/> Frontend Engineering
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html" />
 
-* Scalable React architectures
-* Next.js SSR & routing
-* Animated UI (Framer Motion)
-* Performance optimization
+<br/>
 
-</td>
-<td width="33%" valign="top">
-
-### <img src="https://img.icons8.com/fluency/48/000000/server.png" width="20" alt="backend"/> Backend Engineering
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-
-* 130+ REST APIs built
-* NestJS modular architecture
-* JWT & RBAC systems
-* ERP & Billing backend design
+- ⚡ **Scalable React Architectures**
+- 🌐 **Next.js SSR & App Routing**
+- 🎨 **Animated UI (Framer Motion)**
+- 🚀 **Performance Optimization**
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-### <img src="https://img.icons8.com/fluency/48/000000/database.png" width="20" alt="database"/> Database & DevOps
+### <img src="https://img.icons8.com/fluency/48/000000/server.png" width="22" alt="backend"/> Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,apollo,postman" />
 
-* MongoDB schema design
-* PostgreSQL relational modeling
-* Deployment pipelines
-* Clean release workflows
+<br/>
+
+- ⚡ **130+ REST APIs Built**
+- 🧩 **NestJS Modular Architecture**
+- 🔐 **JWT & RBAC Systems**
+- 📊 **ERP & Billing Backend Design**
+
+</td>
+<td width="33%" valign="top" align="left">
+
+### <img src="https://img.icons8.com/fluency/48/000000/database.png" width="22" alt="database"/> Database & DevOps
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,github,vercel" />
+
+<br/>
+
+- 🍃 **MongoDB Schema Design**
+- 🐘 **PostgreSQL Relational Modeling**
+- ⚙️ **Deployment Pipelines**
+- 📦 **Clean Release Workflows**
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -371,9 +377,11 @@ _Structured System Architecture & Modular Workflows_
 
 ---
 
+<div align="center">
+
 # <img src="https://img.icons8.com/fluency/48/000000/handshake.png" width="28" alt="connect"/> Let's Connect & Build Together
 
-<div align="center">
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2d034f?style=for-the-badge&logo=netlify&logoColor=white)](https://deepanshu-dashore.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
