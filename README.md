@@ -47,6 +47,62 @@ I design and build scalable backend systems and high-performance React applicati
 
 ---
 
+# <img src="https://img.icons8.com/fluency/48/000000/user-male-circle.png" width="28" alt="about"/> About Me
+
+<div align="center">
+<table>
+<tr>
+<td width="100%" align="left">
+
+**Deepanshu Dashore** — Full‑Stack Engineer currently working as **Software Engineer (Full Stack Systems)** at **AISECT INDIA**, Khandwa, Madhya Pradesh.
+
+I’m a Full-Stack Engineer focused on building scalable web applications, admin systems, and production-ready platforms. I work across the entire stack — from designing system architecture and APIs to building responsive, high-performance frontends with React and modern UI frameworks.
+
+### <img src="https://img.icons8.com/fluency/48/000000/services.png" width="20" alt="build"/> What I Build & Contribute To:
+- <img src="https://img.icons8.com/fluency/48/000000/shield.png" width="16" alt="shield"/> **Role-based admin dashboards** with granular access control matrices (JWT / RBAC)
+- <img src="https://img.icons8.com/fluency/48/000000/database.png" width="16" alt="database"/> **ERP & data management systems** engineered for enterprise operations
+- <img src="https://img.icons8.com/fluency/48/000000/layers.png" width="16" alt="layers"/> **Full-stack platforms** handling structured content, dynamic media & complex workflows
+- <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="16" alt="rocket"/> **Real-world client & SaaS projects** built with high performance and scalability in mind
+
+> *One of my key projects, **StackStruct**, reflects my approach to structured system design, modular architecture, and clean development workflows.*
+
+### <img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" alt="skills"/> Things I Code With:
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) 
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) 
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) 
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) 
+[![React Query](https://img.shields.io/badge/-React_Query-3178C6?style=flat-square&logo=tanstack&logoColor=white)](https://tanstack.com/query) 
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) 
+[![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)](https://www.apollographql.com) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) 
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) 
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) 
+[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com) 
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com) 
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com) 
+[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) 
+
+<br/>
+<br/>
+
+- <img src="https://img.icons8.com/fluency/48/000000/briefcase.png" width="16" alt="roles"/> **Open To:** Full‑time roles, freelance projects, and collaboration on product-driven engineering teams.
+- <img src="https://img.icons8.com/fluency/48/000000/mail.png" width="16" alt="contact"/> **Contact:** [dipanshu.dashore.dev@gmail.com](mailto:dipanshu.dashore.dev@gmail.com) · [Portfolio](https://deepanshu-dashore.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/deepanshu-dashore/)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 # Core Expertise
 
 <table>
@@ -90,132 +146,173 @@ I design and build scalable backend systems and high-performance React applicati
 </tr>
 </table>
 
-<!-- Things I code with -->
-<div align="left">
+---
 
-### Things I code with
+# <img src="https://img.icons8.com/fluency/48/000000/briefcase.png" width="28" alt="experience"/> Professional Experience
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) 
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) 
-[![React Query](https://img.shields.io/badge/-React_Query-3178C6?style=flat-square&logo=tanstack&logoColor=white)](https://tanstack.com/query) 
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org) 
-[![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)](https://www.apollographql.com) 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) 
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) 
-[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) 
-[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com) 
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com) 
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com) 
-[![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) 
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="70%" align="left" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/000000/organization.png" width="20" alt="company"/> Software Engineer — Full Stack Systems
+**AISECT INDIA** · *Khandwa, MP*
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`Mar 2026 – Present`  
+[![Full-time](https://img.shields.io/badge/-Full--time-2d034f?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+- Built and maintained production web applications using **Next.js**, **React**, **Node.js** and **NestJS**.
+- Designed modular backend services, RBAC authentication systems, and **130+ REST APIs** for core internal platforms.
+- Delivered admin dashboards, complex data visualizations, and production deployments with performance gains.
+
+<br/>
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="70%" align="left" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="20" alt="freelance"/> Freelance MERN Stack Developer
+**Self‑Employed** · *Remote*
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`May 2025 – Present`  
+[![Freelance](https://img.shields.io/badge/-Freelance-0A66C2?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+- Delivered ERP and billing systems for small businesses and clients with clean UX and stable backends.
+- Implemented modular **NestJS** backends and designed **MongoDB / PostgreSQL** schemas for scalability.
+- Focused on long-term maintainability, testing, and deployment-ready releases.
+
+<br/>
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="70%" align="left" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" alt="intern"/> React JS Developer Intern
+**INDIDEVELOPERS** · *Remote*
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`Jan 2025 – Apr 2025`  
+[![Internship](https://img.shields.io/badge/-Internship-339933?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+- Built responsive UI components and integrated REST APIs into client analytics dashboards.
+- Improved UI rendering performance and code maintainability.
+
+<br/>
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="70%" align="left" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="20" alt="university"/> Frontend Developer Intern
+**AISECT Infotech Ltd** · *On-site*
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`Sep 2024 – Dec 2024`  
+[![Internship](https://img.shields.io/badge/-Internship-339933?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+- Contributed to a university platform serving **500+ users**; assisted with production deployments and optimizations.
+- Collaborated within an agile engineering team to deliver feature updates and bug fixes.
+
+<br/>
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# Professional Experience
-
-A concise overview of selected roles focused on impact and results.
-
-### Software Engineer — Full Stack Systems
-**AISECT INDIA** · Khandwa, Madhya Pradesh · Full-time
-_Mar 2026 – Present_
-
-- Built and maintained production web applications using Next.js, React, Node.js and NestJS.
-- Designed modular backend services, RBAC authentication, and 130+ REST APIs for internal platforms.
-- Delivered admin dashboards, data visualizations, and production deployments with performance improvements.
-
----
-
-### Freelance MERN Stack Developer
-**Self‑employed** · Remote
-_May 2025 – Present_
-
-- Delivered ERP and billing systems for small businesses with clean UX and stable backends.
-- Implemented modular NestJS backends and designed MongoDB/PostgreSQL schemas for scalability.
-- Focused on maintainability, testing, and deployment-ready releases.
-
----
-
-### React JS Developer Intern
-**INDIDEVELOPERS** · Remote
-_Jan 2025 – Apr 2025_
-
-- Built responsive interfaces and integrated APIs into client dashboards.
-- Improved UI performance and code maintainability.
-
----
-
-### Frontend Developer Intern
-**AISECT Infotech Ltd** · On-site
-_Sep 2024 – Dec 2024_
-
-- Contributed to a university platform serving 500+ users; assisted with deployments and optimizations.
-- Collaborated within an agile team to deliver features and fixes.
-
----
-
 # Featured Projects
-
-## 📚 Library SMS *(Live)*
-Digital Library Seat Allocation & Subscription Management Platform
-
-Interactive seat management & real-time seat calendar  
-Subscription & member lifecycle management · Financial operations & automated PDF receipts
-
-Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Resend
-
----
-
-## 🌱 Raman Green *(Live)*
-Premium Organic Agricultural Platform & Heritage Grain E-Commerce
-
-Organic product catalog & e-commerce · User authentication & personalization  
-Admin dashboard & management · Community & sustainability (tribal farmer linkage)
-
-Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Framer Motion
-
----
 
 <div align="center">
 <table>
 <tr>
 <td width="33%" valign="top" align="left">
 
-**Mharo Nimar**  
+**Library SMS (Live)**  
+_Digital Library Seat Allocation & Subscription Platform_  
+- Interactive seat management & real-time seat calendar  
+- Subscription & member lifecycle management · Financial operations & automated PDF receipts  
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**Raman Green (Live)**  
+_Premium Organic Agricultural Platform & Heritage Grain E-Commerce_  
+- Organic product catalog & user authentication & personalization  
+- Admin dashboard & community features · Tribal farmer linkage  
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**Mharo Nimar (Live)**  
 _Cultural-Tech MERN Platform_  
 - Role-based admin dashboard · Media & event management  
-- Modular backend · Live deployment  
+- High-performance REST APIs, modular backend & live deployment  
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-
-</td>
-<td width="33%" valign="top" align="left">
-
-**ERP System**  
-_Institutional Management_  
-- Multi-role authentication · Billing & PDF invoices  
-- Inventory & transaction modules  
-
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com)
-
-</td>
-<td width="33%" valign="top" align="left">
-
-**Library SMS**  
-_Digital Library Seat Allocation & Subscription Management Platform_  
-- Interactive seat management & real-time seat calendar  
-- Subscription & member lifecycle management · Automated PDF receipts  
-
-Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Resend
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 </td>
 </tr>
@@ -223,31 +320,32 @@ Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cl
 <td width="33%" valign="top" align="left">
 
 **Billing Application (Live)**  
-_Secure billing & transactions_  
-- Vendor & expense management · Production-ready backend  
+_Enterprise Billing, Expense & Transaction System_  
+- Vendor & expense management · Tax calculation & transaction reporting  
+- Production-ready RESTful backend · Automated PDF receipt generation  
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**ERP System (Live)**  
+_Institutional Planning & Management System_  
+- Multi-role authentication & RBAC permission matrix  
+- Integrated billing & PDF invoices · Inventory & transaction modules  
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 </td>
 <td width="33%" valign="top" align="left">
 
 **CC Matting (Live)**  
-_Cleanroom matting & contamination-control platform_  
+_Cleanroom Matting & Contamination-Control Platform_  
 - Cleanroom interactive demos (3D particulate visualizations using Three.js / R3F)  
 - B2B order management with multi-tier workflows (customers → distributors → warehouse)  
-- Automated PDF quotes & industry-specific portals (Data Centers, Bio‑Pharma, Microelectronics)  
+- Automated PDF quotes & industry-specific portals  
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-
-</td>
-<td width="33%" valign="top" align="left">
-
-**Raman Green**  
-_Premium Organic Agricultural Platform & Heritage Grain E-Commerce_  
-- Organic product catalog & e-commerce · User authentication & personalization  
-- Admin dashboard & community features · Tribal farmer linkage  
-
-Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Framer Motion
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 
 </td>
 </tr>
@@ -255,18 +353,26 @@ Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cl
 <td width="33%" valign="top" align="left">
 
 **Raman Anusandhanikee Research Journal (Live)**  
-_Peer-reviewed academic research portal & publishing platform_  
-- Peer review workflow · Manuscript triage & publishing · Soft-delete & trash system  
+_Peer-Reviewed Academic Research Portal & Publishing Platform_  
+- End-to-end peer review workflow · Manuscript triage & publishing  
+- Custom soft-delete & trash system · Role-based editorial controls  
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**StackStruct**  
+_Structured System Architecture & Modular Workflows_  
+- Structured system design, modular backend & clean development workflows  
+- Maintainable component architecture & production-ready API patterns  
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 
 </td>
 </tr>
 </table>
 </div>
-
----
-
 
 ---
 
@@ -280,33 +386,36 @@ _Peer-reviewed academic research portal & publishing platform_
 
 ---
 
-# GitHub Contribution Graph
+# <img src="https://img.icons8.com/fluency/48/000000/activity.png" width="28" alt="activity"/> GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepanshu-dashore/Deepanshu-dashore/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepanshu-dashore/Deepanshu-dashore/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Deepanshu-dashore/Deepanshu-dashore/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-# About
-
-Deepanshu Dashore — Junior Full‑Stack Engineer currently working as Software Engineer (Full Stack Systems) at AISECT INDIA, Khandwa, Madhya Pradesh.
-
-I build production-ready web applications and scalable backend systems focused on real business impact. My work spans ERP platforms, billing systems, and SaaS dashboards where I design API-first services, implement role-based authentication (JWT/RBAC), and create modular, testable architectures optimized for performance and maintainability.
-
-Core skills: Next.js, React, NestJS, Node.js, TypeScript, MongoDB, PostgreSQL, Tailwind CSS, performance optimization, and CI/CD.
-
-Open to: Full‑time roles, freelance projects, and collaboration on product-driven engineering teams.
-
-Contact: dipanshu.dashore.dev@gmail.com · Portfolio: https://deepanshu-dashore.netlify.app/ · LinkedIn: https://www.linkedin.com/in/deepanshu-dashore/
-
----
+# <img src="https://img.icons8.com/fluency/48/000000/connect.png" width="28" alt="connect"/> Let's Connect & Build Together
 
 <div align="center">
 
-### "Code with logic. Build with structure. Deliver with consistency."
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=white)](https://deepanshu-dashore.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
+[![Email](https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
+
+<br/>
+
+### *"Code with logic. Build with structure. Deliver with consistency."*
 
 </div>
 
