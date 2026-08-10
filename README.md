@@ -30,17 +30,23 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-rad[...]
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;" />
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Fu[...]" />
+
+<h1><img src="https://raw.githubusercontent.com/MartinMuzatko/gif-collection/master/wave.gif" width="38px" alt="wave"/> Hello & Welcome!</h1>
+
+<a href="https://github.com/Deepanshu-dashore">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Deepanshu+Dashore!;Software+Engineer+(Full+Stack+Systems);Building+Scalable+ERPs%2C+SaaS+%26+APIs;Welcome+to+my+GitHub+Profile!%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=black)](https://deepanshu-dashore.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d034f?style=for-the-badge&logo=netlify&logoColor=white)](https://deepanshu-dashore.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
 
 </div>
@@ -57,12 +63,6 @@ I design and build scalable backend systems and high-performance React applicati
 **Deepanshu Dashore** — Full‑Stack Engineer currently working as **Software Engineer (Full Stack Systems)** at **AISECT INDIA**, Khandwa, Madhya Pradesh.
 
 I’m a Full-Stack Engineer focused on building scalable web applications, admin systems, and production-ready platforms. I work across the entire stack — from designing system architecture and APIs to building responsive, high-performance frontends with React and modern UI frameworks.
-
-### <img src="https://img.icons8.com/fluency/48/000000/services.png" width="20" alt="build"/> What I Build & Contribute To:
-- <img src="https://img.icons8.com/fluency/48/000000/shield.png" width="16" alt="shield"/> **Role-based admin dashboards** with granular access control matrices (JWT / RBAC)
-- <img src="https://img.icons8.com/fluency/48/000000/database.png" width="16" alt="database"/> **ERP & data management systems** engineered for enterprise operations
-- <img src="https://img.icons8.com/fluency/48/000000/layers.png" width="16" alt="layers"/> **Full-stack platforms** handling structured content, dynamic media & complex workflows
-- <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="16" alt="rocket"/> **Real-world client & SaaS projects** built with high performance and scalability in mind
 
 > *One of my key projects, **StackStruct**, reflects my approach to structured system design, modular architecture, and clean development workflows.*
 
@@ -151,24 +151,12 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 # <img src="https://img.icons8.com/fluency/48/000000/briefcase.png" width="28" alt="experience"/> Professional Experience
 
 <div align="center">
-
 <table width="100%">
 <tr>
-<td width="70%" align="left" valign="top">
+<td width="75%" align="left" valign="top">
 
 ### <img src="https://img.icons8.com/fluency/48/000000/organization.png" width="20" alt="company"/> Software Engineer — Full Stack Systems
 **AISECT INDIA** · *Khandwa, MP*
-
-</td>
-<td width="30%" align="right" valign="top">
-
-`Mar 2026 – Present`  
-[![Full-time](https://img.shields.io/badge/-Full--time-2d034f?style=flat-square)](https://github.com/Deepanshu-dashore)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="left">
 
 - Built and maintained production web applications using **Next.js**, **React**, **Node.js** and **NestJS**.
 - Designed modular backend services, RBAC authentication systems, and **130+ REST APIs** for core internal platforms.
@@ -179,28 +167,19 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 </td>
+<td width="25%" align="right" valign="top">
+
+`Mar 2026 – Present`  
+[![Full-time](https://img.shields.io/badge/-Full--time-2d034f?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
 </tr>
-</table>
-
-<br/>
-
-<table width="100%">
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td width="70%" align="left" valign="top">
+<td width="75%" align="left" valign="top">
 
 ### <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="20" alt="freelance"/> Freelance MERN Stack Developer
 **Self‑Employed** · *Remote*
-
-</td>
-<td width="30%" align="right" valign="top">
-
-`May 2025 – Present`  
-[![Freelance](https://img.shields.io/badge/-Freelance-0A66C2?style=flat-square)](https://github.com/Deepanshu-dashore)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="left">
 
 - Delivered ERP and billing systems for small businesses and clients with clean UX and stable backends.
 - Implemented modular **NestJS** backends and designed **MongoDB / PostgreSQL** schemas for scalability.
@@ -211,28 +190,19 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 </td>
+<td width="25%" align="right" valign="top">
+
+`May 2025 – Present`  
+[![Freelance](https://img.shields.io/badge/-Freelance-0A66C2?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
 </tr>
-</table>
-
-<br/>
-
-<table width="100%">
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td width="70%" align="left" valign="top">
+<td width="75%" align="left" valign="top">
 
 ### <img src="https://img.icons8.com/fluency/48/000000/code.png" width="20" alt="intern"/> React JS Developer Intern
 **INDIDEVELOPERS** · *Remote*
-
-</td>
-<td width="30%" align="right" valign="top">
-
-`Jan 2025 – Apr 2025`  
-[![Internship](https://img.shields.io/badge/-Internship-339933?style=flat-square)](https://github.com/Deepanshu-dashore)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="left">
 
 - Built responsive UI components and integrated REST APIs into client analytics dashboards.
 - Improved UI rendering performance and code maintainability.
@@ -242,28 +212,19 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </td>
-</tr>
-</table>
+<td width="25%" align="right" valign="top">
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="70%" align="left" valign="top">
-
-### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="20" alt="university"/> Frontend Developer Intern
-**AISECT Infotech Ltd** · *On-site*
-
-</td>
-<td width="30%" align="right" valign="top">
-
-`Sep 2024 – Dec 2024`  
+`Jan 2025 – Apr 2025`  
 [![Internship](https://img.shields.io/badge/-Internship-339933?style=flat-square)](https://github.com/Deepanshu-dashore)
 
 </td>
 </tr>
+<tr><td colspan="2"><hr/></td></tr>
 <tr>
-<td colspan="2" align="left">
+<td width="75%" align="left" valign="top">
+
+### <img src="https://img.icons8.com/fluency/48/000000/graduation-cap.png" width="20" alt="university"/> Frontend Developer Intern
+**AISECT Infotech Ltd** · *On-site*
 
 - Contributed to a university platform serving **500+ users**; assisted with production deployments and optimizations.
 - Collaborated within an agile engineering team to deliver feature updates and bug fixes.
@@ -273,9 +234,14 @@ I’m a Full-Stack Engineer focused on building scalable web applications, admin
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </td>
+<td width="25%" align="right" valign="top">
+
+`Sep 2024 – Dec 2024`  
+[![Internship](https://img.shields.io/badge/-Internship-339933?style=flat-square)](https://github.com/Deepanshu-dashore)
+
+</td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -386,7 +352,7 @@ _Structured System Architecture & Modular Workflows_
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/000000/activity.png" width="28" alt="activity"/> GitHub Contribution Graph
+# <img src="https://img.icons8.com/fluency/48/000000/line-chart.png" width="28" alt="activity"/> GitHub Contribution Graph
 
 <div align="center">
 
@@ -405,13 +371,14 @@ _Structured System Architecture & Modular Workflows_
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/000000/connect.png" width="28" alt="connect"/> Let's Connect & Build Together
+# <img src="https://img.icons8.com/fluency/48/000000/handshake.png" width="28" alt="connect"/> Let's Connect & Build Together
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-2d034f?style=for-the-badge&logo=vercel&logoColor=white)](https://deepanshu-dashore.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
-[![Email](https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d034f?style=for-the-badge&logo=netlify&logoColor=white)](https://deepanshu-dashore.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepanshu-dashore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-dashore/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshu.dashore.dev@gmail.com)
 
 <br/>
 
