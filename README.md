@@ -30,7 +30,7 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:[...]" />
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-rad[...]
 
 <br/>
 <br/>
@@ -215,7 +215,7 @@ _Digital Library Seat Allocation & Subscription Management Platform_
 - Interactive seat management & real-time seat calendar  
 - Subscription & member lifecycle management · Automated PDF receipts  
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
+Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Resend
 
 </td>
 </tr>
@@ -247,7 +247,7 @@ _Premium Organic Agricultural Platform & Heritage Grain E-Commerce_
 - Organic product catalog & e-commerce · User authentication & personalization  
 - Admin dashboard & community features · Tribal farmer linkage  
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
+Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · MongoDB · Cloudinary · Framer Motion
 
 </td>
 </tr>
@@ -294,7 +294,7 @@ _Peer-reviewed academic research portal & publishing platform_
 
 Deepanshu Dashore — Junior Full‑Stack Engineer currently working as Software Engineer (Full Stack Systems) at AISECT INDIA, Khandwa, Madhya Pradesh.
 
-I build production-ready web applications and scalable backend systems focused on real business impact. My work spans ERP platforms, billing systems, and SaaS dashboards where I design API-first services, role-based authentication, and maintainable modular architectures.
+I build production-ready web applications and scalable backend systems focused on real business impact. My work spans ERP platforms, billing systems, and SaaS dashboards where I design API-first services, implement role-based authentication (JWT/RBAC), and create modular, testable architectures optimized for performance and maintainability.
 
 Core skills: Next.js, React, NestJS, Node.js, TypeScript, MongoDB, PostgreSQL, Tailwind CSS, performance optimization, and CI/CD.
 
