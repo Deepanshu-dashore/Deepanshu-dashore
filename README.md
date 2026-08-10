@@ -51,7 +51,7 @@ I design and build scalable backend systems and high-performance React applicati
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/000000/line-chart.png" width="28" alt="activity"/> GitHub Contribution Graph
+# <img src="https://img.icons8.com/fluency/48/000000/line-chart.png" width="28" alt="activity"/> Contribution Snake
 
 <div align="center">
 
@@ -60,11 +60,6 @@ I design and build scalable backend systems and high-performance React applicati
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepanshu-dashore/Deepanshu-dashore/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake" src="https://snk-five.vercel.app/Deepanshu-dashore/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -374,6 +369,16 @@ _Structured System Architecture & Modular Workflows_
 * Scalable RBAC implementation
 * Query optimization strategies
 * Maintainable clean code standards
+
+---
+
+# <img src="https://img.icons8.com/fluency/48/000000/activity.png" width="28" alt="activity"/> GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
