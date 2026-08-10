@@ -29,11 +29,11 @@ I design and build scalable backend systems and high-performance React applicati
 <!-- Local banner inserted below. Place the banner image at /assets/banner.png in the repo. -->
 
 <br/>
-<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:8px;" />
+<img src="https://github.com/Deepanshu-dashore/Deepanshu-dashore/blob/main/ChatGPT%20Image%20Aug%204%2C%202026%2C%2009_04_34%20AM.png" alt="banner" width="100%" style="max-width:1200px; border-radius:12px;">
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Working+on+MERN+%2F+Next.js+%2F+NestJS;Building+ERP+%26+SaaS+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=6d0dbd&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+I'm+Deepanshu+Dashore;Full-Stack+Engineer;MERN+%7C+NestJS+%7C+Next.js;ERP+%26+SaaS+Systems+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -164,6 +164,29 @@ _Sep 2024 – Dec 2024_
 
 # Featured Projects
 
+## 📚 Library SMS *(Live)*
+> **Digital Library Seat Allocation & Subscription Management Platform**
+
+**Interactive seat management & real-time seat calendar** (bulk registration & visual seat layout)  
+**Subscription & member lifecycle management** (multi-tier plans, renewals & trash/recycle bin recovery)  
+**Financial operations & automated PDF receipts** (payment reports, expense tracking & banking insights)
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com) [![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=resend&logoColor=white)](https://resend.com)
+
+---
+
+## 🌱 Raman Green *(Live)*
+> **Premium Organic Agricultural Platform & Heritage Grain E-Commerce**
+
+**Organic Product Catalog & E-Commerce** (heritage grains, organic seeds, dry foods, and millet snacks with real-time inventory)  
+**User Authentication & Personalization** (Google OAuth integration, secure registration, personalized shopping with wishlist and reviews)  
+**Admin Dashboard & Management** (comprehensive product, category, inventory, and stock management with system settings)  
+**Community & Sustainability** (direct farmer linkage program empowering tribal communities with fair pricing and organic cultivation training)
+
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com) [![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion)
+
+---
+
 <div align="center">
 <table>
 <tr>
@@ -184,7 +207,7 @@ _Institutional Management_
 - Multi-role authentication · Billing & PDF invoices  
 - Inventory & transaction modules  
 
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
 
 </td>
 <td width="33%" valign="top" align="left">
@@ -193,7 +216,7 @@ _Institutional Management_
 _Secure billing & transactions_  
 - Vendor & expense management · Production-ready backend  
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org) [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 </td>
 </tr>
@@ -206,7 +229,7 @@ _Cleanroom matting & contamination-control platform_
 - B2B order management with multi-tier workflows (customers → distributors → warehouse)  
 - Automated PDF quotes & industry-specific portals (Data Centers, Bio‑Pharma, Microelectronics)  
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org)
 
 </td>
 <td width="33%" valign="top" align="left">
@@ -215,7 +238,7 @@ _Cleanroom matting & contamination-control platform_
 _Peer-reviewed academic research portal & publishing platform_  
 - Peer review workflow · Manuscript triage & publishing · Soft-delete & trash system  
 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![Clerk](https://img.shields.io/badge/-Clerk-111827?style=flat-square)](https://clerk.com) [![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 </td>
 </tr>
