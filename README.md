@@ -372,15 +372,6 @@ _Structured System Architecture & Modular Workflows_
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/000000/activity.png" width="28" alt="activity"/> GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-dashore&theme=github-dark&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
 
 <div align="center">
 
